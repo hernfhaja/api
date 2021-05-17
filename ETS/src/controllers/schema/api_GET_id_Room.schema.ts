@@ -10,6 +10,7 @@ const api_GET_id_RoomSchema: FastifySchema = {
       },
       additionalProperties: false
     }
+    s
   }
 }
 
