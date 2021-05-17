@@ -18,6 +18,7 @@ function build(opts: object = configApp) {
   });
 
   return app
+  
 }
 
 export default build
